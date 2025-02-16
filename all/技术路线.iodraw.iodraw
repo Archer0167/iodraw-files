@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="6pz-gSdhdOpAI2Vab6_h">
-    <mxGraphModel dx="1264" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1534" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,19 +47,22 @@
           <mxGeometry x="40" y="430" width="50" height="270" as="geometry" />
         </mxCell>
         <mxCell id="aBKmVOT0sMraiapiDAiY-1" value="3D打印夹具" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="145" y="500" width="50" height="190" as="geometry" />
+          <mxGeometry x="180" y="500" width="50" height="190" as="geometry" />
         </mxCell>
         <mxCell id="aBKmVOT0sMraiapiDAiY-3" value="光纤固定和端面垂直" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="270" y="500" width="50" height="190" as="geometry" />
+          <mxGeometry x="305" y="500" width="50" height="190" as="geometry" />
         </mxCell>
         <mxCell id="aBKmVOT0sMraiapiDAiY-4" value="端面平整度" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="383" y="500" width="50" height="190" as="geometry" />
+          <mxGeometry x="418" y="500" width="50" height="190" as="geometry" />
         </mxCell>
         <mxCell id="aBKmVOT0sMraiapiDAiY-5" value="SEM&lt;div&gt;/AEM电镜表征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="610" y="500" width="50" height="190" as="geometry" />
+          <mxGeometry x="645" y="500" width="50" height="190" as="geometry" />
         </mxCell>
         <mxCell id="aBKmVOT0sMraiapiDAiY-6" value="高精度超表面微纳工艺" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="500" y="500" width="50" height="190" as="geometry" />
+          <mxGeometry x="535" y="500" width="50" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aBKmVOT0sMraiapiDAiY-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
