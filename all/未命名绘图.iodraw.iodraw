@@ -39,8 +39,8 @@
             <mxPoint x="150" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7JeUmyjpLHa_Eu27jJuO-11" value="理论&lt;div style=&quot;font-size: 14px;&quot;&gt;指导&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="224.57142857142856" as="geometry">
+        <mxCell id="7JeUmyjpLHa_Eu27jJuO-11" value="迭代&lt;div&gt;优化&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="125" y="221.57142857142856" as="geometry">
             <mxPoint x="47" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
