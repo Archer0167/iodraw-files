@@ -262,6 +262,9 @@
         <mxCell id="aBKmVOT0sMraiapiDAiY-63" value="表征" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontStyle=1;fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="339.84613821138805" y="901" as="geometry" />
         </mxCell>
+        <mxCell id="aBKmVOT0sMraiapiDAiY-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="75" width="660" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
