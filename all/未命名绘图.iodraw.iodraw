@@ -77,8 +77,8 @@
             <mxPoint x="-2" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7JeUmyjpLHa_Eu27jJuO-18" value="军用&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;地磁探测&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; 导航定位&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;磁异探测&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="354" y="420" width="120" height="120" as="geometry" />
+        <mxCell id="7JeUmyjpLHa_Eu27jJuO-18" value="军用&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;地磁探测&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;导航定位&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;磁异探测&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
