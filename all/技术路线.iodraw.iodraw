@@ -33,8 +33,18 @@
         <mxCell id="4XyunCLM6MpYBZNZrvbN-8" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; font-weight: 700;&quot;&gt;有限周期数目超表面设计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="381" y="95" width="210" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aBKmVOT0sMraiapiDAiY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4XyunCLM6MpYBZNZrvbN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4XyunCLM6MpYBZNZrvbN-9" value="合理选择材料和结构" style="rounded=0;horizontal=1;verticalAlign=middle;fontStyle=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="384" y="155" width="40" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aBKmVOT0sMraiapiDAiY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4XyunCLM6MpYBZNZrvbN-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4XyunCLM6MpYBZNZrvbN-10" value="FEM&lt;div&gt;/FDTD&lt;/div&gt;&lt;div&gt;数值模拟&lt;/div&gt;" style="rounded=0;horizontal=1;verticalAlign=middle;fontStyle=1;html=1;fontFamily=宋体;fontSize=18;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="455" y="155" width="60" height="190" as="geometry" />
