@@ -66,7 +66,7 @@
             <mxPoint x="47" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7JeUmyjpLHa_Eu27jJuO-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7JeUmyjpLHa_Eu27jJuO-6">
+        <mxCell id="7JeUmyjpLHa_Eu27jJuO-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7JeUmyjpLHa_Eu27jJuO-6" target="7JeUmyjpLHa_Eu27jJuO-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="489.58" as="sourcePoint" />
             <mxPoint x="340" y="490" as="targetPoint" />
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7JeUmyjpLHa_Eu27jJuO-18" value="军用&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;地磁探测&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;导航定位&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;磁异探测&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="430" width="120" height="120" as="geometry" />
+          <mxGeometry x="350" y="430" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
