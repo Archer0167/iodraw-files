@@ -253,6 +253,9 @@
             <mxPoint x="-11" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aBKmVOT0sMraiapiDAiY-63" value="性能" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontStyle=1;fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="338.84613821138805" y="901" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
