@@ -124,6 +124,9 @@
         <mxCell id="aBKmVOT0sMraiapiDAiY-22" value="学习样本输入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontStyle=1;fontSize=10;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="345.99999999999994" y="129" as="geometry" />
         </mxCell>
+        <mxCell id="aBKmVOT0sMraiapiDAiY-29" value="谐振模式耦合分析" style="rounded=0;horizontal=1;verticalAlign=middle;fontStyle=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="554" y="165" width="40" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
