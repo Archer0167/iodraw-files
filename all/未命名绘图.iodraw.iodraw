@@ -19,8 +19,8 @@
         <mxCell id="4XyunCLM6MpYBZNZrvbN-8" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; font-weight: 700;&quot;&gt;有限周期数目超表面设计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="110" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4XyunCLM6MpYBZNZrvbN-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="4XyunCLM6MpYBZNZrvbN-9" value="&lt;font size=&quot;1&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;合理选择材料和结构&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="40" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
