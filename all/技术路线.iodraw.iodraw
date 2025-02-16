@@ -150,8 +150,14 @@
             <mxPoint x="-4" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aBKmVOT0sMraiapiDAiY-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBKmVOT0sMraiapiDAiY-1" target="aBKmVOT0sMraiapiDAiY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aBKmVOT0sMraiapiDAiY-1" value="3D打印夹具" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="50" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aBKmVOT0sMraiapiDAiY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBKmVOT0sMraiapiDAiY-3" target="aBKmVOT0sMraiapiDAiY-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aBKmVOT0sMraiapiDAiY-3" value="光纤固定和端面垂直" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="311" y="500" width="50" height="190" as="geometry" />
